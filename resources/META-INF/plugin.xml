@@ -2,17 +2,22 @@
     <id>com.your.company.unique.plugin.id</id>
     <name>Space to underline plugin</name>
     <version>1.0</version>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <vendor url="https://github.com/aiLvXuan/SpaceToUnderlinePlugin">LvXuan</vendor>
 
     <description><![CDATA[
-      &quot;all the space to underline&quot; or &quot;all the underline to space&quot; for selected passage.<br>
-   把选中的段落中的所有空格转换成下划线，或所有下划线转换空格
+      &quot;all the space to underline&quot; or &quot;all the underline to space&quot;
+      for selected passage.<br><br>
+        把选中的段落中的所有空格转换成下划线，或所有下划线转换空格
+
+   <br><br><br>
+   Windows Shortcuts: Ctrl + Shift + Alt + U  <br>
+   Windows 快捷键： Ctrl + Shift + Alt + U
+
 
     ]]></description>
 
     <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+      Nothing
     ]]>
     </change-notes>
 

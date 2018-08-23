@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>com.your.company.unique.plugin.id</id>
+    <id>me.lvxuan.SpaceToUnderlinePlugin.StunAction</id>
     <name>Space to underline plugin</name>
     <version>1.0</version>
     <vendor url="https://github.com/aiLvXuan/SpaceToUnderlinePlugin">LvXuan</vendor>
@@ -30,9 +30,9 @@
     <depends>com.intellij.modules.lang</depends>
     -->
 
-    <extensions defaultExtensionNs="com.intellij">
+    <!--<extensions defaultExtensionNs="com.intellij">-->
         <!-- Add your extensions here -->
-    </extensions>
+    <!--</extensions>-->
 
     <actions>
         <!-- Add your actions here -->

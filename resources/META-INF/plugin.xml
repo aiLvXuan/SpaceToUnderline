@@ -1,8 +1,8 @@
 <idea-plugin>
-    <id>me.lvxuan.SpaceToUnderlinePlugin.StunAction</id>
-    <name>Space to underline plugin</name>
+    <id>me.lvxuan.SpaceToUnderline.StunAction</id>
+    <name>Space to underline</name>
     <version>1.0</version>
-    <vendor url="https://github.com/aiLvXuan/SpaceToUnderlinePlugin">LvXuan</vendor>
+    <vendor url="https://github.com/aiLvXuan/SpaceToUnderline">LvXuan</vendor>
 
     <description><![CDATA[
       &quot;all the space to underline&quot; or &quot;all the underline to space&quot;
@@ -36,8 +36,8 @@
 
     <actions>
         <!-- Add your actions here -->
-        <action id="SpaceToUnderlinePlugin.StunAction" class="me.lvxuan.plugin.StunAction"
-                text="Space to underline plugin"
+        <action id="SpaceToUnderline.StunAction" class="me.lvxuan.plugin.StunAction"
+                text="Space to underline"
                 description="&quot;all the space to underline&quot; or &quot;all the underline to space&quot; for selected passage
              &#x000A;把选中的段落中的所有空格转换成下划线，或所有下划线转换空格">
             <add-to-group group-id="EditMenu" anchor="last"/>

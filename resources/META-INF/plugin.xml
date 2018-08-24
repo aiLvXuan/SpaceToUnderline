@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>me.lvxuan.SpaceToUnderline.StunAction</id>
+    <id>me.lvxuan.SpaceToUnderlinePlugin.StunAction</id>
     <name>Space to underline</name>
     <version>1.0</version>
     <vendor url="https://github.com/aiLvXuan/SpaceToUnderline">LvXuan</vendor>

@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>me.lvxuan.SpaceToUnderlinePlugin.StunAction</id>
     <name>Space to underline</name>
-    <version>1.0</version>
+    <version>2018.08.24</version>
     <vendor url="https://github.com/aiLvXuan/SpaceToUnderline">LvXuan</vendor>
 
     <description><![CDATA[
